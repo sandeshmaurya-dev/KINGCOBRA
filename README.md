@@ -24,8 +24,8 @@ with **kingcobra**:
 ---
 
 ### grab and go
-literally no installations or setup wizards. 
-just download the `.exe`, drop it in your folder, and run it.
+no installations, no path variables, no setup wizards. 
+just click on `kingcobra.exe` in the files above, hit the download button, drop it in your project folder, and run it.
 
 ```bash
 # run your script
